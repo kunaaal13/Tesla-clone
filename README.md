@@ -1,3 +1,9 @@
+<h1>Tesla Clone using React Js, Redux</h1>
+
+App deployed on : https://tesla-clone-kunni.netlify.app/
+
+Made with ❤️ by Kunni
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
