@@ -127,6 +127,10 @@ const RightMenu = styled.div`
     text-transform: uppercase;
     margin-right: 10px;
     flex-wrap: nowrap;
+    
+    @media (max-width: 768px) {
+      display: none;
+    }
   }
 `;
 
